@@ -5,7 +5,7 @@ MERN Stack Developer Assessment
 
 ## CANDIDATE DETAILS
 **NAME: Mursaleen 
-**EMAIL: mursaleenumar.pro@gmail.com 
+**EMAIL: Bthunder418@gmail.com
 **LAST INTERVIEW: 5th June, 2025
 
 ---
